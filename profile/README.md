@@ -1,6 +1,6 @@
 # Welcome to ENDOAI 👋  
 
-![project endoai](https://github.com/Project-ENDOAI/.github/blob/main/images/endoi_banner.png)
+![project endoai](https://github.com/Project-ENDOAI/.github/images/endoi_banner.png)
 
 
 ### **AI Toolkit for the Diagnosis and Surgical Management of Endometriosis**
